@@ -8,11 +8,12 @@ The pipeline automates data ingestion, transformation, and visualization, provid
 ## 📂 Project Files
 
 - [Project Report (PDF)](report.pdf) – Detailed report with methodology, architecture, and results  
-- [Notebooks] – PySpark notebooks for data transformation and pipeline processing
-  - [Landing to Bronze notebook](https://github.com/SupriyaGiri14/data-engineering-project/edit/main/notebooks/Landing_to_Bronzetable.ipynb)
+- Notebooks – PySpark notebooks for data transformation and pipeline processing
+  - [Raw to Landing](https://github.com/SupriyaGiri14/data-engineering-project/blob/main/notebooks/Raw%20to%20Landing.ipynb)
+  - [Landing to Bronze notebook](https://github.com/SupriyaGiri14/data-engineering-project/blob/main/notebooks/Landing_to_Bronzetable.ipynb)
   - [Bronze to Silver notebook](https://github.com/SupriyaGiri14/data-engineering-project/blob/main/notebooks/Silver_Transformation.ipynb)
-  - [Silver to Gold notebook](notebooks/silver_to_gold.ipynb)
-- [Screenshots](screenshots/) – Power BI dashboards and intermediate data snapshots  
+  - [Silver to Gold notebook](https://github.com/SupriyaGiri14/data-engineering-project/blob/main/notebooks/Silver%20to%20Gold%20transformation.ipynb)
+
 
 ---
 
