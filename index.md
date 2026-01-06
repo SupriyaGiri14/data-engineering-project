@@ -20,7 +20,6 @@ The pipeline automates data ingestion, transformation, and visualization, provid
 ## 🖼 Pipeline Image
 
 ![Pipeline Run](https://raw.githubusercontent.com/SupriyaGiri14/data-engineering-project/main/screenshots/pipeline_run.png)
-
 ---
 
 ## 🚀 Highlights
@@ -31,13 +30,6 @@ The pipeline automates data ingestion, transformation, and visualization, provid
 - **Data Quality & Governance:** Validation, reconciliation, and monitoring at each stage  
 - **Scalability:** Designed to handle increasing data volumes efficiently  
 
----
-
-## 🔗 Explore the Project
-
-- Check out the **full report**: [report.pdf](report.pdf)  
-- Review the **transformation notebooks**: [notebooks folder](notebooks/)  
-- View **screenshots and dashboards**: [screenshots folder](screenshots/)  
 
 ---
 
