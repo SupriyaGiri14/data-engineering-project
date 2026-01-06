@@ -1,0 +1,41 @@
+# End-to-End Data Engineering Project with Microsoft Fabric
+
+This project demonstrates a **fully functional end-to-end data engineering and analytics solution** using **Microsoft Fabric**, leveraging a **Medallion Architecture (Bronze → Silver → Gold)**.  
+The pipeline automates data ingestion, transformation, and visualization, providing **business-ready insights**.
+
+---
+
+## 📂 Project Files
+
+- [Project Report (PDF)](report.pdf) – Detailed report with methodology, architecture, and results  
+- [Notebooks](notebooks/) – PySpark notebooks for data transformation and pipeline processing  
+- [Screenshots](screenshots/) – Power BI dashboards and intermediate data snapshots  
+
+---
+
+## 🖼 Sample Dashboard
+
+![Power BI Dashboard](screenshots/dashboard_example.png)
+
+---
+
+## 🚀 Highlights
+
+- **Automated Data Pipelines:** Raw → Bronze → Silver → Gold layer using Microsoft Fabric  
+- **Data Transformation:** PySpark notebooks for cleaning, enrichment, and business logic  
+- **Business-Ready Insights:** Gold-layer tables feeding Power BI dashboards  
+- **Data Quality & Governance:** Validation, reconciliation, and monitoring at each stage  
+- **Scalability:** Designed to handle increasing data volumes efficiently  
+
+---
+
+## 🔗 Explore the Project
+
+- Check out the **full report**: [report.pdf](report.pdf)  
+- Review the **transformation notebooks**: [notebooks folder](notebooks/)  
+- View **screenshots and dashboards**: [screenshots folder](screenshots/)  
+
+---
+
+Thank you for visiting!  
+This project demonstrates how modern data engineering techniques can deliver **scalable, reliable, and actionable insights**.
