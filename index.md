@@ -1,4 +1,4 @@
-<div style="background-color:#f9f2f2; padding:24px; border-radius:12px;">
+<div style="background-color:#f9f2f2;">
 <h1 style="color:#c62828;">
 End-to-End Data Engineering Project with Microsoft Fabric
 </h1>
