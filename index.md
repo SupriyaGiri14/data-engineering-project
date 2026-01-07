@@ -19,7 +19,7 @@ The pipeline automates data ingestion, transformation, and visualization, provid
 
 ## 🖼 Pipeline Image
 
-![Pipeline Run](https://raw.githubusercontent.com/SupriyaGiri14/data-engineering-project/main/screenshots/pipeline_run.png)
+![Pipeline Run](https://raw.githubusercontent.com/SupriyaGiri14/data-engineering-project/main/screenshots/pipeline_run1.png)
 ---
 ## End-to-End Pipeline Logic (Microsoft Fabric)
 
